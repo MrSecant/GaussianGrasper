@@ -20,7 +20,7 @@ This repository is the pytorch implementation of our paper, **GaussianGrasper**.
 ·
 <strong>Songen Gu</strong>
 ·
-<strong>Runyi Yang</strong>
+<a href="https://runyiyang.github.io/"><strong>Runyi Yang</strong></a>
 ·
 <strong>Bu Jin</strong>
 ·
