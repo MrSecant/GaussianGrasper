@@ -135,7 +135,6 @@ nbclient==0.9.0
 nbconvert==7.11.0
 nbformat==5.7.0
 nerfacc==0.5.2
--e git+https://github.com/RunyiYang/GS-Distilled-Feature-Fields.git@55a42f67881214d105188f17ac76506ae0c5ca69#egg=nerfstudio
 nest-asyncio==1.5.8
 networkx==3.1
 ninja==1.11.1.1
